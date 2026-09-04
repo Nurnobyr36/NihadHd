@@ -1,0 +1,6 @@
+{
+  "name": "Cable Stream Studio",
+  "description": "Cable/IPTV Playout & Automation System with Admin Dashboard and Channel 3 Live Broadcast Viewer Screen",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
